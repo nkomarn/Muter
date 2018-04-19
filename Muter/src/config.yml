@@ -1,0 +1,14 @@
+#    __  ___      __           
+#   /  |/  /_  __/ /____  _____
+#  / /|_/ / / / / __/ _ \/ ___/
+# / /  / / /_/ / /_/  __/ /    
+#/_/  /_/\__,_/\__/\___/_/     
+                               
+# Muter 1.0 by TechToolbox (@nkomarn)
+
+# Permission (if players don't have this, they are automatically muted)
+permission: muter.chat
+
+# Message that will be sent when player is muted (doesn't have permission)
+muted-message: "&8&l(&c&l!&8&l) &cYou are muted."
+

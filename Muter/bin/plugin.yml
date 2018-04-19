@@ -1,0 +1,5 @@
+name: Muter
+version: 1.0
+main: techtoolbox.Muter.Main
+description: "Mutes player if they don't have a permission."
+
